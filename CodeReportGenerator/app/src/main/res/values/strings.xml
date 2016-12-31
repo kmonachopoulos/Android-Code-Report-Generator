@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Code Report Generator</string>
+    <string name="title_activity_display_codes">DisplayCodes</string>
+</resources>

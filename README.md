@@ -24,3 +24,8 @@ In application project files, an already singed build (.apk) is attached as a de
 
 ![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_1.png)
 ![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_2.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_3.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_4.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_5.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_6.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_7.png)

@@ -3,6 +3,7 @@
 This is a simple Android application project created for educational purposes, called "CodeReportGenerator". This offline application is capable to hold and show multiple -codes/passwords- for every day of the year. This way you will have organized a group of -codes/passwords- that can be used for a variety of reasons. For example, you want specific members or colleagues to have access to a system that changes password every day. If the application is stored and executed in multiple devices, then multiple users will know the same information and can use it for the same purpose. Because this application is completely offline, using SQLite, your data are safe in your phone. 
 
 This project consists of two main parts. The first part is a java program that is capable to generate random -codes/passwords- for every day of the year "JRndCodeGen.java". This code uses the "java.time" package for the date and the "java.util.Random" packet for generating random -codes/passwords- for every day. The second part is the Android application that is responsible to hold and illustrate the -codes/passwords- depending of the input day or day period. 
+
 /*** Usage ***/
 
 -JRndCodeGen.java-
@@ -21,4 +22,4 @@ In application project files, an already singed build (.apk) is attached as a de
 
 -Emulator Samples-
 
-![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/EmuAppPresentations/EmuAppPresentation_1.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_1.png)

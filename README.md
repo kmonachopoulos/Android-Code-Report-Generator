@@ -23,3 +23,4 @@ In application project files, an already singed build (.apk) is attached as a de
 -Emulator Samples-
 
 ![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_1.png)
+![alt tag](https://github.com/kmonahopoulos/Android-Code-Report-Generator/blob/master/EmuAppPresentations/EmuAppPresentation_2.png)

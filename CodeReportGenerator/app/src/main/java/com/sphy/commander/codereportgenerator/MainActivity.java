@@ -3,7 +3,7 @@
   Project       : Code Report Generator
   File          : MainActivity.java
   Description   : This is the main activity of the program.
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

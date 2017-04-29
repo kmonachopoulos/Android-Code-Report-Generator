@@ -3,7 +3,7 @@
   Project       : Code Report Generator
   File          : Splash.java
   Description   : This is just a splash screen that is presented at the beginning of the application.
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

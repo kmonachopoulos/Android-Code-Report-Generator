@@ -3,7 +3,7 @@
   Project       : Code Report Generator
   File          : DisplayCodes.java
   Description   : This file is responsible for displaying the output of the query. i.e. the dates and the -codes/passwords-
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

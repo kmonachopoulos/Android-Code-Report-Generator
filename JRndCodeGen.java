@@ -3,7 +3,7 @@
   Project       : Random -code/password- Generator
   File          : JRndCodeGen.java
   Description   : This file is responsible for creating the database into SQLite correct format.
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

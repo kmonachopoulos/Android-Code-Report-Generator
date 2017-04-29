@@ -3,7 +3,7 @@
   Project       : Code Report Generator
   File          : SQLCodes.java
   Description   : This file holds the SQLite functions.
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 

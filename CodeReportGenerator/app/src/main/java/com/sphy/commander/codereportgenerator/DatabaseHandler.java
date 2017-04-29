@@ -3,7 +3,7 @@
   Project       : Code Report Generator
   File          : DatabaseHandler.java
   Description   : This file holds SQlite properties and Database information.
-  Author        : Konstantinos Monahopoulos
+  Author        : Konstantinos Monachopoulos
   ------------------------------------------------------------------------------------------------------------------------------------------
 */
 
